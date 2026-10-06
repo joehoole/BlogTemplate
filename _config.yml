@@ -2,6 +2,9 @@ title: My Blog
 description: Writing for [module name]
 theme: minima
 
+# Show posts dated in the future. Delete this line to have them appear week by week.
+future: true
+
 # Posts live at /posts/post-title.html, so image links like ../assets/pic.png
 # work both in Obsidian and on the website.
 permalink: /posts/:title.html
